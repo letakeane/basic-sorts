@@ -1,6 +1,6 @@
 {
   "name": "@letakeane/basic-sorts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bubble and insertion sorts",
   "main": "index.js",
   "directories": {
